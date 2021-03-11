@@ -35,5 +35,3 @@
 
 # Conclusion : 
   L’oral est un moment stressant pour les lycéens, c’est pourquoi il est préférable de bien s’y préparer et de se laisser beaucoup de temps pour cela afin de ne pas faire d’impasse. Plus vous aurez été attentif aux analyses de texte durant l’année, plus vos révisions seront facilitées. Pendant la prestation, d’une façon générale, essayez de ne pas paniquer : il vaut mieux prendre un peu de temps pour retrouver une information qu’oublier de parler d’un point fondamental. Sachez enfin que l’oral est un exercice important qui vous prépare à ce qui vous sera demandé dans le cursus supérieur.
-
-#### Si tu as un problème : <a href="https://discord.gg/NEzrujDzRR"><img alt="Discord" src="https://img.shields.io/discord/663420259851567114?color=blue&labelColor=292929&label=chat%20-%20discord&logo=discord&style=for-the-badge" /></a>
