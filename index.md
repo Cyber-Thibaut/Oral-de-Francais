@@ -1,5 +1,5 @@
-# L'oral de français
 ## FICHE MÉTHODE BAC
+# L'oral de français
 
 ## Introduction : 
   L’oral est un exercice à part dans lequel la qualité de la prestation compte presque autant que le contenu en lui-même. Nous allons voir comment s’y préparer en révélant le déroulement de l’épreuve et en donnant quelques recommandations sur la façon dont vous devrez organiser vos révisions. Nous verrons ensuite comment vous comporter face au jury.
