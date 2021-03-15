@@ -1,37 +1,19 @@
 # FICHE MÉTHODE BAC
-# L'oral de français
+FICHES MÉTHODE BAC
+L'oral de français :
 
-## Introduction : 
-  L’oral est un exercice à part dans lequel la qualité de la prestation compte presque autant que le contenu en lui-même. Nous allons voir comment s’y préparer en révélant le déroulement de l’épreuve et en donnant quelques recommandations sur la façon dont vous devrez organiser vos révisions. Nous verrons ensuite comment vous comporter face au jury.
+https://cyber-thibaut.github.io/Bac-de-Francais/L'oral-de-Français
+La Dissertation :
 
-## Se préparer
-### Le fonctionnement de l’épreuve
-  L’oral de Français est un tête à tête entre vous, le candidat, et un jury que vous ne connaissez pas. Le principe de l’épreuve est simple : il s’agit d’une explication de texte menée par le candidat, suivie d’un entretien avec le jury. Il faut donc conduire un véritable petit exposé d’une dizaine de minutes, et répondre à quelques questions pendant dix autres minutes.
+https://www.bacdefrancais.net/ecrit/dissertation-methode.php
+Le Commentaire :
 
-**En tout donc, vingt minutes d’épreuve vous attendent.**
+https://www.bacdefrancais.net/ecrit/commentaire-methode.php
 
-### Organiser ses révisions
-  Il apparaît très difficile de réussir cette épreuve sans un minimum de préparation. Il faut donc que vous organisiez vos révisions. Il faut savoir que l’examinateur se verra remettre une liste, concoctée à cet effet par votre professeur de Français. Sur cette liste se trouvent **tous les textes étudiés en classe pendant l’année de première.** Cela inclut les groupements de textes et les passages extraits d’œuvres complètes. Il est possible d’être interrogé sur n’importe lequel des textes figurant dessus. L’examinateur pointera un texte, et il faudra l’étudier. Pour bien préparer cet oral, il apparaît donc impératif d’écrire des **fiches récapitulatives** pour chaque texte, de reprendre les cours, emprunter ceux des copains pour les jours d’absence, et rédiger de belles fiches résumant l’essentiel des choses à dire sur chaque texte. Le fait d’écrire de nouveau ces informations, de les reformuler sur des fiches permet de se les réapproprier. 
+https://commentairecompose.fr/methode-commentaire-compose/
+Aide pour la Princesse de Clèves :
 
-## Apprendre et comprendre
-  Il ne servirait à rien de mémoriser par cœur une sorte de super-résumé pour chaque texte car il ne s’agit pas tant d’apprendre que de comprendre. Il faut avant tout maîtriser le sens de chacun des textes de la liste et savoir les réexpliquer, mais en aucun cas régurgiter une analyse apprise bêtement car la problématique choisie par le jury, autrement dit la question posée sur le texte, ne sera pas nécessairement celle étudiée en classe. Il faut que vous vous exprimiez réellement dans cette épreuve, que vous donniez sincèrement votre opinion sur les textes. Bien sûr, vous vous aiderez des divers aspects étudiés en classe, mais en les nuançant et en les adaptant à la question du jury. Il y a une subtilité dans la liste que détient le jury. Elle concerne les œuvres complètes vues dans l’année. En théorie, l’examinateur peut choisir de faire passer non pas seulement sur les quelques extraits étudiés en cours, mais bien sur n’importe quelle partie de l’œuvre en question. En fait, l’œuvre dans son intégralité est censée être maîtrisée. Aussi, dans vos révisions, pour les œuvres vues en classe, rédigez (en plus des fiches consacrées aux extraits) une fiche globale sur l’œuvre complète. 
+https://gallica.bnf.fr/blog/24072020/la-princesse-de-cleves-individu-morale-et-societe?mode=desktop
+Exemples de commentaire:
 
-## La veille
-  La veille de l’examen n’est plus le moment des révisions, au contraire, tentez de vous divertir et de penser le plus possible à autre chose. Préparez dès la veille vos textes, votre matériel (crayons à papier, surligneurs…) votre convocation et votre pièce d’identité et reposez-vous au maximum la nuit précédant l’oral. 
-
-## Face au jury
-
-### L’entrée
-  Ne négligez pas la première impression. Soignez votre tenue, pensez à saluer poliment le jury sans trop en faire, en arrivant et en partant. L’examinateur va demander votre convocation, vérifier votre identité et vous faire signer une feuille de présence. Puis, il vous demandera les textes (vous êtes tenus de prévoir un exemplaire non-annoté de chacun des textes et œuvres complètes étudiés dans l’année). L’examinateur va consulter la liste des œuvres, réfléchir quelques secondes, et vous proposer un texte ainsi qu’une question. Certains auront fait cela avant votre arrivée et vous proposerons de tirer votre sujet au sort. Il est impératif de noter la question au brouillon pour ne pas l’oublier, surtout si elle ne vous est donnée qu’à l’oral. Vous serez ensuite invités à aller vous asseoir, en général au fond de la salle, pour préparer votre prestation. Souvent, le candidat qui vous précède passe son oral pendant que vous préparez le vôtre. Veillez à ne pas vous déconcentrer, vous n’avez que trente minutes. 
-
-### La préparation de trente minutes
-  Vous devez préparer une explication de texte, néanmoins, en raison de la brièveté du temps de préparation et de présentation, cette explication sera nécessairement plus brève qu’une explication écrite. Il faut aller à l’essentiel dès la préparation : * identifiez les principaux axes d’étude et analysez-les au brouillon. Cette phase sert à vous préparer mais ne sera pas présentée telle quelle à l’oral ; * rédigez une introduction, elle sera essentiellement contextuelle : il faut expliquer brièvement qui est l’auteur, ou de quoi parle l’œuvre dont le texte est tiré. S’il s’agit d’un extrait d’œuvre complète, résumer brièvement les évènements précédents le passage ; * à la suite de l’introduction, indiquer très clairement le mot « lecture », pour justement ne pas oublier de la faire. La lecture est en effet un temps important de l’examen, qui est pris en compte dans l’évaluation. Il ne faut surtout pas l’oublier ! Pensez à lire lentement ; * indiquer le plan en écrivant les titres des grandes parties (vous pouvez même consacrer un recto de brouillon complet à chaque partie pour plus de lisibilité) ; * en dessous de chaque titre, détaillez les divers points à aborder. Il ne faut surtout pas rédiger entièrement l’explication : le temps est trop court. Il faut citer le texte à de nombreuses reprises, pensez à relever les lignes si les expressions sont trop longues pour être recopiées. Pour ne pas vous embrouiller, prévoyez des crayons de différentes couleurs pour appliquer un code différent pour chaque partie et souligner le texte en conséquence.
-
-#### 💡 *Astuce*
-   **Soignez vos brouillons** plus que vous ne le feriez à l’écrit pour retrouver d’un simple coup d’œil les éléments dont vous avez besoin. Le brouillon sera votre     prompteur, c’est-à-dire une **sorte de guide** qui permettra de gérer le timing de l’explication. Sur ces feuilles, qu’il faut numéroter en bas, n’écrivez que d’un    seul coté, et laissez le verso complètement vierge. Le but ici est d’éviter à tout prix de paniquer faute de retrouver ses notes au bon moment.
-
-### Le passage
-  Pour bien gérer le temps, indiquez sur votre plan un **timing indicatif**. Par exemple, à côté du mot « lecture », écrivez le chiffre 2 en évidence ; lorsque vous aurez fini de lire et que vous verrez le chiffre 2, regardez votre montre. Si vous êtes proches des deux minutes, tout va bien. Si ce n’est pas le cas, vous saurez alors s’il faut ralentir ou accélérer votre débit de parole. La but est de se rapprocher au maximum des dix minutes, le jury y sera sensible car un bon timing est déjà symptomatique d’une bonne prestation. Au bout de ces dix minutes, l’examinateur vous posera quelques questions qui préciseront l’étude. Il peut demander que vous réexpliquiez tel ou tel aspect du commentaire. Il pourra aussi, le cas échéant, pointer une erreur d’interprétation. Dans cette situation, surtout, **il ne faut pas céder à la panique** : les instructions stipulent clairement que si le candidat répare son erreur, elle ne peut lui être imputée. Du moins pas totalement. Enfin, si jamais les questions semblent n’avoir aucun rapport avec le texte, il ne faut pas s’offusquer. Certains examinateurs demandent parfois si l’année s’est bien passée, quelles sont les passions de l’élève… Si de telles questions venaient à survenir dans l’entretien, c’est bon signe. Cela veut dire en général que l’exposé se suffisait à lui-même, et que la note est déjà acquise.
-
-# Conclusion : 
-  L’oral est un moment stressant pour les lycéens, c’est pourquoi il est préférable de bien s’y préparer et de se laisser beaucoup de temps pour cela afin de ne pas faire d’impasse. Plus vous aurez été attentif aux analyses de texte durant l’année, plus vos révisions seront facilitées. Pendant la prestation, d’une façon générale, essayez de ne pas paniquer : il vaut mieux prendre un peu de temps pour retrouver une information qu’oublier de parler d’un point fondamental. Sachez enfin que l’oral est un exercice important qui vous prépare à ce qui vous sera demandé dans le cursus supérieur.
+https://www.bacdefrancais.net/1984.php
