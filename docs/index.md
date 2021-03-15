@@ -2,7 +2,7 @@
 
 ## L'oral de français :
 
-  https://cyber-thibaut.github.io/Bac-de-Francais/L'oral-de-Français
+  https://cyber-thibaut.github.io/Bac-de-Francais/L'oral-de-Fran%C3%A7ais
 
 ## La Dissertation :
   
